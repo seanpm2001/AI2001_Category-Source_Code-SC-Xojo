@@ -32,6 +32,28 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Xojo source file
+*.xojo_code linguist-detectable=true
+*.xojo_code linguist-documentation=false
+*.xojo_code linguist-language=Xojo
+*.xojo_image linguist-detectable=true
+*.xojo_image linguist-documentation=false
+*.xojo_image linguist-language=Xojo
+*.xojo_menu linguist-detectable=true
+*.xojo_menu linguist-documentation=false
+*.xojo_menu linguist-language=Xojo
+*.xojo_project linguist-detectable=true
+*.xojo_project linguist-documentation=false
+*.xojo_project linguist-language=Xojo
+*.xojo_resources linguist-detectable=true
+*.xojo_resources linguist-documentation=false
+*.xojo_resources linguist-language=Xojo
+*.xojo_toolbar linguist-detectable=true
+*.xojo_toolbar linguist-documentation=false
+*.xojo_toolbar linguist-language=Xojo
+*.xojo_window linguist-detectable=true
+*.xojo_window linguist-documentation=false
+*.xojo_window linguist-language=Xojo
 # R source file
 *.r linguist-detectable=true
 *.r linguist-documentation=false
@@ -183,7 +205,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2024, Wednesday, September 11th at 09:22 pm PST)
+# Line count (including blank lines and compiler line): 212
 
 # End of script
